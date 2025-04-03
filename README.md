@@ -37,10 +37,9 @@ AWS, Docker 기반의 DevOps 환경에서의 배포 및 자동화 경험도 함�
 ## 📊 GitHub Stats
 
 ![kimyoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoda&show_icons=true&theme=default)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoda&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🔗 Portfolio
 
-[🔗 Notion 포트폴리오 바로가기](https://www.notion.so/e940fb9bc0e40aaa88ad16915dcb5a3)
+[🔗 Notion 포트폴리오 바로가기](https://www.notion.so/Developer-1a57865a6d88805ca767e943f7548d14)
