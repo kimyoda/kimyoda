@@ -2,7 +2,7 @@
 
 현재 **게임 서버 개발자**로 일하고 있으며,  
 **PHP Laravel 기반 백엔드 개발**을 주력으로 하고 있습니다.  
-또한 **프론트엔드(JavaScript, React, TypeScript)** 에 대한 관심을 갖고 꾸준히 학습하고 있습니다.  
+또한 **프론트엔드(JavaScript, React, TypeScript, Next.js)** 에 대한 관심을 갖고 꾸준히 학습하고 있습니다.  
 AWS, Docker 기반의 DevOps 환경에서의 배포 및 자동화 경험을 보유하고 있으며,  
 Docker Compose 및 YML 파일을 직접 구성하고,  
 컨테이너 환경을 실제 서비스 운영에 적용하고 있습니다.  
