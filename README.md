@@ -50,6 +50,8 @@ Docker Compose 및 YML 파일을 직접 구성하고,
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 <!-- DevOps -->
 
@@ -59,7 +61,9 @@ Docker Compose 및 YML 파일을 직접 구성하고,
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![DockerHub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)
+![k8s](https://img.shields.io/badge/k8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
 ![NaverCloud](https://img.shields.io/badge/Naver_Cloud-1EC800?style=flat-square&logo=naver&logoColor=white)
 ![Naver Developers](https://img.shields.io/badge/Naver_Developers-03C75A?style=flat-square)
 
@@ -73,7 +77,7 @@ Docker Compose 및 YML 파일을 직접 구성하고,
 
 ## 📊 GitHub Stats
 
-![kimyoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoda&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoda&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
 
