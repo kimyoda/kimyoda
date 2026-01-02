@@ -78,7 +78,7 @@ Docker Compose 및 YML 파일을 직접 구성하고,
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoda&show_icons=true&theme=github_dark&v=1)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimyoda&theme=github-dark)
 
 ## 🔗 Portfolio
 
