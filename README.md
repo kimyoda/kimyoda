@@ -80,6 +80,8 @@ Docker Compose 및 YML 파일을 직접 구성하고,
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimyoda&theme=github-dark)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyoda&show_icons=true&theme=github_dark)
+
 ## 🔗 Portfolio
 
 [🔗 Notion 포트폴리오 바로가기](https://www.notion.so/Developer-1a57865a6d88805ca767e943f7548d14)
