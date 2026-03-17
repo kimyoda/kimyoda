@@ -36,25 +36,34 @@ Docker Compose 및 YML 파일을 직접 구성하고,
 
 ## 💻 Tech Stack
 
-<!-- Frontend -->
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<!-- ✅ 추가: 요즘 트렌드 UI 라이브러리, 실사용 경험 있으면 어필됨 -->
+
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![NextUI](https://img.shields.io/badge/NextUI-000000?style=flat-square)
 
-<!-- Backend -->
+### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-<!-- DevOps -->
+<!-- ✅ 추가: 실사용 경험 있으면 유지, 없으면 Learning으로 이동 권장 -->
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+### DevOps / Infra
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -68,11 +77,29 @@ Docker Compose 및 YML 파일을 직접 구성하고,
 ![NaverCloud](https://img.shields.io/badge/Naver_Cloud-1EC800?style=flat-square&logo=naver&logoColor=white)
 ![Naver Developers](https://img.shields.io/badge/Naver_Developers-03C75A?style=flat-square)
 
-<!-- Database -->
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
+
+<!-- ✅ 추가: 실사용 경험 있으면 유지 -->
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+<!-- ✅ 신규 섹션 추가: 학습 중인 기술은 여기로 분리해서 신뢰도 유지 -->
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### 🛠 Tools
+
+<!-- ✅ 신규 섹션 추가 -->
+
+![Sequel Ace](https://img.shields.io/badge/Sequel_Ace-45B0E3?style=flat-square)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white)
 
 ---
 
