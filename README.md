@@ -143,4 +143,4 @@ PHP · Laravel 기반 모바일 게임의 **콘텐츠 API 및 운영툴**을 개
 
 ## 🔗 Portfolio
 
-[🔗 Notion 포트폴리오 바로가기](https://www.notion.so/Developer-1a57865a6d88805ca767e943f7548d14)
+[🔗 Notion 포트폴리오 바로가기](https://shrub-periwinkle-4a5.notion.site/GameSever_Developer-3ee7865a6d8880099546f3404c834bbd?pvs=143)
